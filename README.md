@@ -37,7 +37,7 @@
  <summary> ✇ <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gnsepili&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gnsepili&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27"><br/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gnsepili&hide=TeX,HTML&theme=tokyonight">
 </p>
 </details>
