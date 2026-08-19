@@ -1,20 +1,64 @@
-<h1 align="center">Hi 👋, I'm Ganesh</h1>
-<h3 align="center">AI Engineer</h3>
+<div align="center">
+  <h1>Ganesh Epili</h1>
+  <p><strong>AI Engineer building agentic and multimodal systems.</strong></p>
+  <p>LLM agents · context engineering · multimodal video · applied machine learning</p>
+  <p>
+    <a href="https://gnsh.dev">Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/gnsepili/">LinkedIn</a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on [DetectGPT](https://github.com/gnsepili/DetectGPT)
+## What I do
 
-- 🌱 I’m currently learning **RLHF**
+I'm an AI Engineer at Fynd, working across machine learning, generative AI, applied research, and product engineering.
 
-- 👨‍💻 All of my projects are available at [https://ganeshepili.tech/](https://ganeshepili.tech/)
+I currently own the architecture and end-to-end development of an internal agentic video-production platform. It turns prompts, reference assets, and product URLs into production-ready videos through planning, asset generation, browser interaction, multimodal generation, post-production, and multi-clip assembly.
 
-- 📫 How to reach me **ganeshepili1998@gmail.com**
+The interesting part is not a single model call. It is the system around it: explicit state, tool use, context management, evaluation, failure recovery, and human review.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ganesh_epili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganesh_epili" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gnsepili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gnsepili/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/capgos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/capgos" height="30" width="40" /></a>
-</p>
+## System shape
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<pre>
+user intent + reference assets
+              ↓
+    analysis & production plan
+              ↓
+storyboard + assets + browser actions
+              ↓
+      multimodal generation
+              ↓
+quality checks + post-production + assembly
+              ↓
+        production-ready video
+</pre>
+
+## Current focus
+
+- **Agentic AI** — LLM agents, tool calling, context engineering, MCP, and workflow reliability
+- **Multimodal AI** — coordinating language, image, video, and audio systems
+- **Applied ML research** — NLP, LLM fine-tuning, efficient smaller models, evaluation, and error analysis
+- **Production AI** — Python, PyTorch, FastAPI, TypeScript, browser automation, and model integrations
+
+## Selected work
+
+| Project | What it demonstrates |
+| --- | --- |
+| [video-agent](https://github.com/gnsepili/video-agent) | End-to-end product-image-to-marketing-video system with planning, parallel generation, automated QA, music, and final assembly |
+| [ai-video-edit](https://github.com/gnsepili/ai-video-edit) | Autonomous AI-assisted video-editing workflow |
+| [DB-Agent](https://github.com/gnsepili/DB-Agent) | Natural-language database interaction with generated queries, visualizations, and reusable presets |
+| [gnsh.dev](https://github.com/gnsepili/gnsh.dev) | Portfolio and technical-writing platform |
+
+## Writing & research
+
+I publish visual explanations of machine-learning systems, including **Transformers From Scratch**—a six-part series spanning attention and Q/K/V through modern architectures, training, alignment, and inference.
+
+My earlier research covered domain-specific LLM fine-tuning, efficient smaller-model performance, multilingual voice assistants, and NLP evaluation.
+
+Explore my writing at [gnsh.dev](https://gnsh.dev).
+
+## Working principles
+
+- Build the orchestration around the model, not just the prompt.
+- Prefer observable workflows and measurable evaluation.
+- Stay model-agnostic where it improves reliability and iteration speed.
+- Turn promising prototypes into complete, user-facing systems.
